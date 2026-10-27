@@ -1,0 +1,34 @@
+.taille128{
+    
+    font-size: 128px;
+}
+
+.rouge{
+    color: red;
+}
+.vert{
+    color: green;
+}
+
+.gras{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+h1, h2{
+    text-align: center;
+}
+.gauche{
+    text-align: left;
+}
+.bg-green{
+    background-color: rgb(152, 255, 49);
+}
+.bg-image{
+    height: 500px;
+    background-image: url("/images/Muse_Zenith_Toulouse_TheResistanceTour_2009.jpg");
+}
+
